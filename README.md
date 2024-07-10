@@ -9,5 +9,6 @@ To install, clone this repository and call `go install` in the main directory.
 # TODO
 
  - Tests, especially for larger amounts of data
+ - Tests for tables with and without range key
  - "GitHubification" (coverage, builds, whatever else there is)
  - remove dependency on helixddb
